@@ -1,6 +1,6 @@
 {
   "name": "fire-js-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "handy script package for creating js app",
   "main": "index.js",
   "scripts": {

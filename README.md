@@ -15,5 +15,3 @@ fire-js-app <folder-name>
 ```
 
 #### Your folder will be ready with html/css/js file while also be linked with each other
-
-## Download script : [fire-js-app](https://ankitadhikari.github.io/fire-js-app/)

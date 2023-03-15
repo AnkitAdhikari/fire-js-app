@@ -1,0 +1,22 @@
+{
+  "name": "fire-js-app",
+  "version": "1.0.0",
+  "description": "handy script package for creating js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitAdhikari/fire-js-app.git"
+  },
+  "keywords": [
+    "fire-js-app"
+  ],
+  "author": "Ankit Adhikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitAdhikari/fire-js-app/issues"
+  },
+  "homepage": "https://github.com/AnkitAdhikari/fire-js-app#readme"
+}
